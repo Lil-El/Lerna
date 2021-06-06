@@ -1,0 +1,15 @@
+{
+  "name": "mino-cli",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Lil-El <yxd99324@qq.com>",
+  "homepage": "https://github.com/Lil-El/Lerna#readme",
+  "license": "ISC",
+  "main": "lib/mino-cli.js",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bin": {
+    "mino-cli": "bin/index.js"
+  }
+}
